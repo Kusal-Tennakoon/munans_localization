@@ -1,0 +1,201 @@
+
+Brute force place recognition using Brute Force matcher
+
+-------------------------------------------------------
+No. of nodes = 5
+No. of query images = 1
+No. of putatives = 5
+Max no. of features = 100
+Debug mode = off
+Trial image set path - Panoramas/
+Query image set path - Test_images_Prince_Philip_cropped/
+Debug image set path - debug_images/
+
+-------------------------------------------------------
+
+
+Node 1 -> query image 12
+------------------------
+
+95 features detected!
+
+Checking for matches...
+
+node 1 checked!...37 matches found!
+node 2 checked!...31 matches found!
+node 3 checked!...31 matches found!
+node 4 checked!...37 matches found!
+node 5 checked!...34 matches found!
+
+Voting array
+--------------
+[37 31 31 37 34]
+
+Putative nodes
+------------
+[2 1 3 4 5]
+
+Best matching node from voting array
+----------------------------------------
+1
+
+Best matching node from putative nodes
+--------------------------------------
+5
+
+ Node 1 testing completed!
+
+
+Node 2 -> query image 12
+------------------------
+
+98 features detected!
+
+Checking for matches...
+
+node 1 checked!...33 matches found!
+node 2 checked!...37 matches found!
+node 3 checked!...33 matches found!
+node 4 checked!...40 matches found!
+node 5 checked!...32 matches found!
+
+Voting array
+--------------
+[33 37 33 40 32]
+
+Putative nodes
+------------
+[5 2 3 4 1]
+
+Best matching node from voting array
+----------------------------------------
+4
+
+Best matching node from putative nodes
+--------------------------------------
+1
+
+ Node 2 testing completed!
+
+
+Node 3 -> query image 12
+------------------------
+
+96 features detected!
+
+Checking for matches...
+
+node 1 checked!...30 matches found!
+node 2 checked!...34 matches found!
+node 3 checked!...42 matches found!
+node 4 checked!...38 matches found!
+node 5 checked!...31 matches found!
+
+Voting array
+--------------
+[30 34 42 38 31]
+
+Putative nodes
+------------
+[1 2 3 4 5]
+
+Best matching node from voting array
+----------------------------------------
+3
+
+Best matching node from putative nodes
+--------------------------------------
+5
+
+ Node 3 testing completed!
+
+
+Node 4 -> query image 12
+------------------------
+
+67 features detected!
+
+Checking for matches...
+
+node 1 checked!...27 matches found!
+node 2 checked!...25 matches found!
+node 3 checked!...27 matches found!
+node 4 checked!...35 matches found!
+node 5 checked!...32 matches found!
+
+Voting array
+--------------
+[27 25 27 35 32]
+
+Putative nodes
+------------
+[2 1 3 4 5]
+
+Best matching node from voting array
+----------------------------------------
+4
+
+Best matching node from putative nodes
+--------------------------------------
+5
+
+ Node 4 testing completed!
+
+
+Node 5 -> query image 12
+------------------------
+
+98 features detected!
+
+Checking for matches...
+
+node 1 checked!...35 matches found!
+node 2 checked!...30 matches found!
+node 3 checked!...36 matches found!
+node 4 checked!...43 matches found!
+node 5 checked!...40 matches found!
+
+Voting array
+--------------
+[35 30 36 43 40]
+
+Putative nodes
+------------
+[2 1 3 4 5]
+
+Best matching node from voting array
+----------------------------------------
+4
+
+Best matching node from putative nodes
+--------------------------------------
+5
+
+ Node 5 testing completed!
+
+Results
+-------
+
+Performance criteria
+--------------------
++------+-------------+--------------+-----------+----------------+----------+
+| Node | Accuracy(%) | Precision(%) | Recall(%) | Specificity(%) | F1 Score |
++------+-------------+--------------+-----------+----------------+----------+
+| 1    |    100.0    |    100.0     |   100.0   |      inf       |  100.0   |
+| 2    |     80.0    |     nan      |    0.0    |      0.0       |  100.0   |
+| 3    |    100.0    |    100.0     |   100.0   |      inf       |  100.0   |
+| 4    |     60.0    |     33.3     |   100.0   |      0.5       |   50.0   |
+| 5    |     80.0    |     nan      |    0.0    |      0.0       |  100.0   |
++------+-------------+--------------+-----------+----------------+----------+
+
+
+Confusion Matrix
+----------------
+[[ 1.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  1.  0.  0.]
+ [ 0.  0.  1.  0.  0.  0.]
+ [ 0.  0.  0.  1.  0.  0.]
+ [ 0.  0.  0.  1.  0.  0.]]
+
+
+Time elapsed = 0.7 min (0.0 h)

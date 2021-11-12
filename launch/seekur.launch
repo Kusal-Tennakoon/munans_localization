@@ -1,0 +1,32 @@
+<!-- gmapping slam using 1 rob  ariaClientDriverNodesim5 works for both simulator and robot, run server demo 3 on robot-->
+<launch>
+	<param name="robot_description" textfile="$(find ariaclientdriver)/urdf/pioneer1_new.urdf" />
+	<group ns="pioneer1">
+    		<param name="tf_prefix" value="pioneer1" />
+		<node name="ariaClientDriverNode" pkg="ariaclientdriver" type="ariaClientDriverNode" args="-host 10.0.125.32 -p 7272" output="screen"/>
+		<!--node name="ariaClientDriverNodesim" pkg="ariaClientDriver" type="ariaClientDriverNodesim5" args="-host 10.0.0.21" /-->
+		<node pkg="laser_filters" type="scan_to_scan_filter_chain"
+      		name="laser_filter">
+    		<rosparam command="load" file="$(find ariaclientdriver)/my_laser_config.yaml" />
+    		<!--remap from="scan" to="/pioneer1/scan" /-->
+		<!--remap from="scan_filtered" to="pioneer1/scan_filtered"-->
+  		</node>
+		<node name="gmapping" pkg="gmapping" type="slam_gmapping" >
+		  <remap from="scan" to="scan_filtered" />
+                  <remap from="map" to="/gmapping/map"/>
+ 		  <param name="odom_frame" value="odom" />
+  		  <param name="base_frame" value="pioneer1/base_link" />
+                  <param name="map_update_interval" value="5.0"/>
+                  <param name="map_frame" value="/map" />
+                  <param name="minimumScore" value="50.0" /> <!--This new entry was default zero should improve sudden jumps in position.  -->
+    		</node>
+
+	</group>
+
+	<node name="rviz" pkg="rviz" type="rviz" args="-d $(find munans_localization)/src/rviz/munans_visualizer_robot.rviz" />
+
+	<include file = "$(find usb_cam)/launch/usb_cam-test.launch" /> 
+	
+</launch>
+
+<!-- rosrun map_server map_saver -f map_name -->

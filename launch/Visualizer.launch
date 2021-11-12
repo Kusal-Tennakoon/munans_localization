@@ -1,0 +1,18 @@
+<launch>
+	
+	<!-- Visualizer-->
+	<!--<node name = "visualizer" pkg = "rviz" type = "rviz" args="-d $(find munans_localization)/src/rviz/munans_visualizer_robot.rviz" respawn = "true"/-->
+
+	<!-- Publishers-->
+	<node name = "publishers" pkg = "munans_localization" type = "publishers" respawn = "true" output="screen" />
+
+	<!-- Position error plot-->
+	<!--node name = "pos_err" pkg = "rqt_plot" type = "rqt_plot" respawn = "true" args="/pos_err/min /pos_err/max /pos_err/rmse" /-->
+
+	<!-- Orientation error plot-->
+	<!--node name = "ori_err" pkg = "rqt_plot" type = "rqt_plot" respawn = "true" args="/ori_err/min /ori_err/max /ori_err/rmse" /-->
+	
+	<!-- rqt gui-->
+	<node name = "munans_viewer" pkg = "rqt_gui" type = "rqt_gui" respawn = "true" args = "--perspective-file $(find munans_localization)/src/rqt/munans_viewer_rqt.perspective"/>
+	
+</launch>

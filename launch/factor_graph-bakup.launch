@@ -1,0 +1,49 @@
+<launch>
+	
+	<!-- Visualizer-->
+	<include file = "$(find munans_localization)/launch/Visualizer.launch" /> 
+
+	<!-- Factor graph algorithm-->
+	<node name = "factor_graph" pkg = "munans_localization" type = "factor_graph_sim" respawn = "true" output="screen" />
+
+	<!-- Autopilot-->
+	<node name = "autopilot" pkg = "munans_localization" type = "autopilot_sim"  output="screen" />
+
+	<!-- Map server-->
+	<node name = "map_server" pkg = "munans_localization" type = "map_server_sim" respawn = "true" output="screen" />
+
+	<!-- Accelerometer-->
+	<node name = "accelerometer" pkg = "munans_localization" type = "accelerometer_sim" respawn = "true" output="screen" />
+
+	<!-- Robot Model-->
+	<node name = "seekur" pkg = "munans_localization" type = "seekur" respawn = "true" output="screen" />
+
+	<!-- Controller-->
+	<node name = "controller" pkg = "munans_localization" type = "controller_sim" respawn = "true" output="screen" />
+
+	<!-- Odometer-->
+	<node name = "odometer" pkg = "munans_localization" type = "odometer_sim" respawn = "true" output="screen" />
+
+	<!-- Camera-->
+	<node name = "camera" pkg = "munans_localization" type = "camera_sim" respawn = "true" output="screen" />
+
+	<!-- Factor graph solver-->
+	<node name = "solver" pkg = "munans_localization" type = "solver_sim" respawn = "true" output="screen" />
+	
+	<!-- Factor graph algorithm-->
+	<node name = "place_recognizer" pkg = "munans_localization" type = "place_recognizer_sim" respawn = "true" output="screen" /> 
+
+	<!-- map to fixed reference frame transform-->
+	<node pkg="tf" type="static_transform_publisher" name="refernce_transform" args=" 0 0 0 0 0 0 1 map fixed_reference 10 "/>
+
+	<!-- fixed reference frame to odometry frame trasnform-->
+	<node pkg="tf" type="static_transform_publisher" name="odom_transform" args=" 0 0 0 0 0 0 1 fixed_reference odom 10" />
+
+	<!-- fixed reference frame to base link frame trasnform-->
+	<!--<node pkg="tf" type="static_transform_publisher" name="base_link_transform" args=" 0 0 0 0 0 0 1 odom base_link 10" />-->
+
+	<!-- fixed reference frame to base link frame trasnform-->
+	<node pkg="tf" type="static_transform_publisher" name="top_link_transform" args=" 0 0 0.406 0 0 0 1 base_link seekur_top_link 10" />
+
+
+</launch>

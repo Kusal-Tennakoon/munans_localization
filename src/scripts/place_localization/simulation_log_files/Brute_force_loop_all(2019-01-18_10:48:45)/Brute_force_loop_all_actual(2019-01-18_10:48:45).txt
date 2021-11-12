@@ -1,0 +1,1743 @@
+
+Brute force place recognition using Brute Force matcher
+
+-------------------------------------------------------
+No. of nodes = 30
+No. of query images = 1
+No. of putatives = 5
+Max no. of features = 100
+Debug mode = on
+Trial image set path - Panoramas/
+Query image set path - Test_Prince_Philip_actual/
+Debug image set path - debug_images/
+
+-------------------------------------------------------
+
+Debug image directly created successfully! 
+
+
+Node 1 -> query image 1
+------------------------
+
+101 features detected!
+
+Checking for matches...
+
+node 1 checked!...30 matches found!
+node 2 checked!...34 matches found!
+node 3 checked!...37 matches found!
+node 4 checked!...37 matches found!
+node 5 checked!...37 matches found!
+node 6 checked!...32 matches found!
+node 7 checked!...36 matches found!
+node 8 checked!...33 matches found!
+node 9 checked!...29 matches found!
+node 10 checked!...32 matches found!
+node 11 checked!...35 matches found!
+node 12 checked!...33 matches found!
+node 13 checked!...36 matches found!
+node 14 checked!...35 matches found!
+node 15 checked!...34 matches found!
+node 16 checked!...35 matches found!
+node 17 checked!...36 matches found!
+node 18 checked!...32 matches found!
+node 19 checked!...36 matches found!
+node 20 checked!...33 matches found!
+node 21 checked!...37 matches found!
+node 22 checked!...36 matches found!
+node 23 checked!...34 matches found!
+node 24 checked!...42 matches found!
+node 25 checked!...34 matches found!
+node 26 checked!...36 matches found!
+node 27 checked!...31 matches found!
+node 28 checked!...39 matches found!
+node 29 checked!...36 matches found!
+node 30 checked!...33 matches found!
+
+Voting array
+--------------
+[30 34 37 37 37 32 36 33 29 32 35 33 36 35 34 35 36 32 36 33 37 36 34 42 34
+ 36 31 39 36 33]
+
+Putative nodes
+------------
+[21  3 28 24  4]
+
+Best matching node from voting array
+----------------------------------------
+24
+
+Presence of query node in putative nodes
+----------------------------------------
+Absent
+
+
+ Node 1 testing completed!
+
+
+Node 2 -> query image 1
+------------------------
+
+0 features detected!
+
+Checking for matches...
+
+node 1 checked!...0 matches found!
+node 2 checked!...0 matches found!
+node 3 checked!...0 matches found!
+node 4 checked!...0 matches found!
+node 5 checked!...0 matches found!
+node 6 checked!...0 matches found!
+node 7 checked!...0 matches found!
+node 8 checked!...0 matches found!
+node 9 checked!...0 matches found!
+node 10 checked!...0 matches found!
+node 11 checked!...0 matches found!
+node 12 checked!...0 matches found!
+node 13 checked!...0 matches found!
+node 14 checked!...0 matches found!
+node 15 checked!...0 matches found!
+node 16 checked!...0 matches found!
+node 17 checked!...0 matches found!
+node 18 checked!...0 matches found!
+node 19 checked!...0 matches found!
+node 20 checked!...0 matches found!
+node 21 checked!...0 matches found!
+node 22 checked!...0 matches found!
+node 23 checked!...0 matches found!
+node 24 checked!...0 matches found!
+node 25 checked!...0 matches found!
+node 26 checked!...0 matches found!
+node 27 checked!...0 matches found!
+node 28 checked!...0 matches found!
+node 29 checked!...0 matches found!
+node 30 checked!...0 matches found!
+
+Voting array
+--------------
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+Unable to predict a matching node and putative nodes!
+
+ Node 2 testing completed!
+
+
+Node 3 -> query image 1
+------------------------
+
+0 features detected!
+
+Checking for matches...
+
+node 1 checked!...0 matches found!
+node 2 checked!...0 matches found!
+node 3 checked!...0 matches found!
+node 4 checked!...0 matches found!
+node 5 checked!...0 matches found!
+node 6 checked!...0 matches found!
+node 7 checked!...0 matches found!
+node 8 checked!...0 matches found!
+node 9 checked!...0 matches found!
+node 10 checked!...0 matches found!
+node 11 checked!...0 matches found!
+node 12 checked!...0 matches found!
+node 13 checked!...0 matches found!
+node 14 checked!...0 matches found!
+node 15 checked!...0 matches found!
+node 16 checked!...0 matches found!
+node 17 checked!...0 matches found!
+node 18 checked!...0 matches found!
+node 19 checked!...0 matches found!
+node 20 checked!...0 matches found!
+node 21 checked!...0 matches found!
+node 22 checked!...0 matches found!
+node 23 checked!...0 matches found!
+node 24 checked!...0 matches found!
+node 25 checked!...0 matches found!
+node 26 checked!...0 matches found!
+node 27 checked!...0 matches found!
+node 28 checked!...0 matches found!
+node 29 checked!...0 matches found!
+node 30 checked!...0 matches found!
+
+Voting array
+--------------
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+Unable to predict a matching node and putative nodes!
+
+ Node 3 testing completed!
+
+
+Node 4 -> query image 1
+------------------------
+
+0 features detected!
+
+Checking for matches...
+
+node 1 checked!...0 matches found!
+node 2 checked!...0 matches found!
+node 3 checked!...0 matches found!
+node 4 checked!...0 matches found!
+node 5 checked!...0 matches found!
+node 6 checked!...0 matches found!
+node 7 checked!...0 matches found!
+node 8 checked!...0 matches found!
+node 9 checked!...0 matches found!
+node 10 checked!...0 matches found!
+node 11 checked!...0 matches found!
+node 12 checked!...0 matches found!
+node 13 checked!...0 matches found!
+node 14 checked!...0 matches found!
+node 15 checked!...0 matches found!
+node 16 checked!...0 matches found!
+node 17 checked!...0 matches found!
+node 18 checked!...0 matches found!
+node 19 checked!...0 matches found!
+node 20 checked!...0 matches found!
+node 21 checked!...0 matches found!
+node 22 checked!...0 matches found!
+node 23 checked!...0 matches found!
+node 24 checked!...0 matches found!
+node 25 checked!...0 matches found!
+node 26 checked!...0 matches found!
+node 27 checked!...0 matches found!
+node 28 checked!...0 matches found!
+node 29 checked!...0 matches found!
+node 30 checked!...0 matches found!
+
+Voting array
+--------------
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+Unable to predict a matching node and putative nodes!
+
+ Node 4 testing completed!
+
+
+Node 5 -> query image 1
+------------------------
+
+62 features detected!
+
+Checking for matches...
+
+node 1 checked!...23 matches found!
+node 2 checked!...25 matches found!
+node 3 checked!...29 matches found!
+node 4 checked!...26 matches found!
+node 5 checked!...29 matches found!
+node 6 checked!...24 matches found!
+node 7 checked!...26 matches found!
+node 8 checked!...24 matches found!
+node 9 checked!...22 matches found!
+node 10 checked!...27 matches found!
+node 11 checked!...24 matches found!
+node 12 checked!...25 matches found!
+node 13 checked!...24 matches found!
+node 14 checked!...26 matches found!
+node 15 checked!...25 matches found!
+node 16 checked!...24 matches found!
+node 17 checked!...30 matches found!
+node 18 checked!...24 matches found!
+node 19 checked!...25 matches found!
+node 20 checked!...23 matches found!
+node 21 checked!...28 matches found!
+node 22 checked!...28 matches found!
+node 23 checked!...28 matches found!
+node 24 checked!...26 matches found!
+node 25 checked!...23 matches found!
+node 26 checked!...28 matches found!
+node 27 checked!...21 matches found!
+node 28 checked!...25 matches found!
+node 29 checked!...23 matches found!
+node 30 checked!...24 matches found!
+
+Voting array
+--------------
+[23 25 29 26 29 24 26 24 22 27 24 25 24 26 25 24 30 24 25 23 28 28 28 26 23
+ 28 21 25 23 24]
+
+Putative nodes
+------------
+[23 17  5  3 21]
+
+Best matching node from voting array
+----------------------------------------
+17
+
+Presence of query node in putative nodes
+----------------------------------------
+Present
+
+
+ Node 5 testing completed!
+
+
+Node 6 -> query image 1
+------------------------
+
+97 features detected!
+
+Checking for matches...
+
+node 1 checked!...31 matches found!
+node 2 checked!...32 matches found!
+node 3 checked!...36 matches found!
+node 4 checked!...37 matches found!
+node 5 checked!...37 matches found!
+node 6 checked!...31 matches found!
+node 7 checked!...35 matches found!
+node 8 checked!...35 matches found!
+node 9 checked!...29 matches found!
+node 10 checked!...35 matches found!
+node 11 checked!...31 matches found!
+node 12 checked!...36 matches found!
+node 13 checked!...42 matches found!
+node 14 checked!...38 matches found!
+node 15 checked!...30 matches found!
+node 16 checked!...33 matches found!
+node 17 checked!...37 matches found!
+node 18 checked!...34 matches found!
+node 19 checked!...32 matches found!
+node 20 checked!...27 matches found!
+node 21 checked!...39 matches found!
+node 22 checked!...32 matches found!
+node 23 checked!...41 matches found!
+node 24 checked!...40 matches found!
+node 25 checked!...32 matches found!
+node 26 checked!...41 matches found!
+node 27 checked!...35 matches found!
+node 28 checked!...33 matches found!
+node 29 checked!...29 matches found!
+node 30 checked!...33 matches found!
+
+Voting array
+--------------
+[31 32 36 37 37 31 35 35 29 35 31 36 42 38 30 33 37 34 32 27 39 32 41 40 32
+ 41 35 33 29 33]
+
+Putative nodes
+------------
+[21 24 26 13 23]
+
+Best matching node from voting array
+----------------------------------------
+13
+
+Presence of query node in putative nodes
+----------------------------------------
+Absent
+
+
+ Node 6 testing completed!
+
+
+Node 7 -> query image 1
+------------------------
+
+0 features detected!
+
+Checking for matches...
+
+node 1 checked!...0 matches found!
+node 2 checked!...0 matches found!
+node 3 checked!...0 matches found!
+node 4 checked!...0 matches found!
+node 5 checked!...0 matches found!
+node 6 checked!...0 matches found!
+node 7 checked!...0 matches found!
+node 8 checked!...0 matches found!
+node 9 checked!...0 matches found!
+node 10 checked!...0 matches found!
+node 11 checked!...0 matches found!
+node 12 checked!...0 matches found!
+node 13 checked!...0 matches found!
+node 14 checked!...0 matches found!
+node 15 checked!...0 matches found!
+node 16 checked!...0 matches found!
+node 17 checked!...0 matches found!
+node 18 checked!...0 matches found!
+node 19 checked!...0 matches found!
+node 20 checked!...0 matches found!
+node 21 checked!...0 matches found!
+node 22 checked!...0 matches found!
+node 23 checked!...0 matches found!
+node 24 checked!...0 matches found!
+node 25 checked!...0 matches found!
+node 26 checked!...0 matches found!
+node 27 checked!...0 matches found!
+node 28 checked!...0 matches found!
+node 29 checked!...0 matches found!
+node 30 checked!...0 matches found!
+
+Voting array
+--------------
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+Unable to predict a matching node and putative nodes!
+
+ Node 7 testing completed!
+
+
+Node 8 -> query image 1
+------------------------
+
+54 features detected!
+
+Checking for matches...
+
+node 1 checked!...25 matches found!
+node 2 checked!...26 matches found!
+node 3 checked!...22 matches found!
+node 4 checked!...30 matches found!
+node 5 checked!...27 matches found!
+node 6 checked!...26 matches found!
+node 7 checked!...26 matches found!
+node 8 checked!...23 matches found!
+node 9 checked!...26 matches found!
+node 10 checked!...26 matches found!
+node 11 checked!...27 matches found!
+node 12 checked!...24 matches found!
+node 13 checked!...25 matches found!
+node 14 checked!...28 matches found!
+node 15 checked!...24 matches found!
+node 16 checked!...25 matches found!
+node 17 checked!...29 matches found!
+node 18 checked!...31 matches found!
+node 19 checked!...28 matches found!
+node 20 checked!...27 matches found!
+node 21 checked!...28 matches found!
+node 22 checked!...25 matches found!
+node 23 checked!...27 matches found!
+node 24 checked!...32 matches found!
+node 25 checked!...25 matches found!
+node 26 checked!...27 matches found!
+node 27 checked!...26 matches found!
+node 28 checked!...26 matches found!
+node 29 checked!...29 matches found!
+node 30 checked!...27 matches found!
+
+Voting array
+--------------
+[25 26 22 30 27 26 26 23 26 26 27 24 25 28 24 25 29 31 28 27 28 25 27 32 25
+ 27 26 26 29 27]
+
+Putative nodes
+------------
+[17 29  4 18 24]
+
+Best matching node from voting array
+----------------------------------------
+24
+
+Presence of query node in putative nodes
+----------------------------------------
+Absent
+
+
+ Node 8 testing completed!
+
+
+Node 9 -> query image 1
+------------------------
+
+0 features detected!
+
+Checking for matches...
+
+node 1 checked!...0 matches found!
+node 2 checked!...0 matches found!
+node 3 checked!...0 matches found!
+node 4 checked!...0 matches found!
+node 5 checked!...0 matches found!
+node 6 checked!...0 matches found!
+node 7 checked!...0 matches found!
+node 8 checked!...0 matches found!
+node 9 checked!...0 matches found!
+node 10 checked!...0 matches found!
+node 11 checked!...0 matches found!
+node 12 checked!...0 matches found!
+node 13 checked!...0 matches found!
+node 14 checked!...0 matches found!
+node 15 checked!...0 matches found!
+node 16 checked!...0 matches found!
+node 17 checked!...0 matches found!
+node 18 checked!...0 matches found!
+node 19 checked!...0 matches found!
+node 20 checked!...0 matches found!
+node 21 checked!...0 matches found!
+node 22 checked!...0 matches found!
+node 23 checked!...0 matches found!
+node 24 checked!...0 matches found!
+node 25 checked!...0 matches found!
+node 26 checked!...0 matches found!
+node 27 checked!...0 matches found!
+node 28 checked!...0 matches found!
+node 29 checked!...0 matches found!
+node 30 checked!...0 matches found!
+
+Voting array
+--------------
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+Unable to predict a matching node and putative nodes!
+
+ Node 9 testing completed!
+
+
+Node 10 -> query image 1
+------------------------
+
+98 features detected!
+
+Checking for matches...
+
+node 1 checked!...31 matches found!
+node 2 checked!...34 matches found!
+node 3 checked!...41 matches found!
+node 4 checked!...39 matches found!
+node 5 checked!...40 matches found!
+node 6 checked!...35 matches found!
+node 7 checked!...36 matches found!
+node 8 checked!...42 matches found!
+node 9 checked!...30 matches found!
+node 10 checked!...36 matches found!
+node 11 checked!...39 matches found!
+node 12 checked!...38 matches found!
+node 13 checked!...41 matches found!
+node 14 checked!...34 matches found!
+node 15 checked!...33 matches found!
+node 16 checked!...39 matches found!
+node 17 checked!...37 matches found!
+node 18 checked!...39 matches found!
+node 19 checked!...38 matches found!
+node 20 checked!...33 matches found!
+node 21 checked!...39 matches found!
+node 22 checked!...42 matches found!
+node 23 checked!...43 matches found!
+node 24 checked!...37 matches found!
+node 25 checked!...38 matches found!
+node 26 checked!...41 matches found!
+node 27 checked!...39 matches found!
+node 28 checked!...39 matches found!
+node 29 checked!...38 matches found!
+node 30 checked!...39 matches found!
+
+Voting array
+--------------
+[31 34 41 39 40 35 36 42 30 36 39 38 41 34 33 39 37 39 38 33 39 42 43 37 38
+ 41 39 39 38 39]
+
+Putative nodes
+------------
+[26 13 22  8 23]
+
+Best matching node from voting array
+----------------------------------------
+23
+
+Presence of query node in putative nodes
+----------------------------------------
+Absent
+
+
+ Node 10 testing completed!
+
+
+Node 11 -> query image 1
+------------------------
+
+0 features detected!
+
+Checking for matches...
+
+node 1 checked!...0 matches found!
+node 2 checked!...0 matches found!
+node 3 checked!...0 matches found!
+node 4 checked!...0 matches found!
+node 5 checked!...0 matches found!
+node 6 checked!...0 matches found!
+node 7 checked!...0 matches found!
+node 8 checked!...0 matches found!
+node 9 checked!...0 matches found!
+node 10 checked!...0 matches found!
+node 11 checked!...0 matches found!
+node 12 checked!...0 matches found!
+node 13 checked!...0 matches found!
+node 14 checked!...0 matches found!
+node 15 checked!...0 matches found!
+node 16 checked!...0 matches found!
+node 17 checked!...0 matches found!
+node 18 checked!...0 matches found!
+node 19 checked!...0 matches found!
+node 20 checked!...0 matches found!
+node 21 checked!...0 matches found!
+node 22 checked!...0 matches found!
+node 23 checked!...0 matches found!
+node 24 checked!...0 matches found!
+node 25 checked!...0 matches found!
+node 26 checked!...0 matches found!
+node 27 checked!...0 matches found!
+node 28 checked!...0 matches found!
+node 29 checked!...0 matches found!
+node 30 checked!...0 matches found!
+
+Voting array
+--------------
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+Unable to predict a matching node and putative nodes!
+
+ Node 11 testing completed!
+
+
+Node 12 -> query image 1
+------------------------
+
+91 features detected!
+
+Checking for matches...
+
+node 1 checked!...30 matches found!
+node 2 checked!...28 matches found!
+node 3 checked!...33 matches found!
+node 4 checked!...34 matches found!
+node 5 checked!...33 matches found!
+node 6 checked!...27 matches found!
+node 7 checked!...27 matches found!
+node 8 checked!...33 matches found!
+node 9 checked!...24 matches found!
+node 10 checked!...27 matches found!
+node 11 checked!...30 matches found!
+node 12 checked!...33 matches found!
+node 13 checked!...34 matches found!
+node 14 checked!...35 matches found!
+node 15 checked!...28 matches found!
+node 16 checked!...36 matches found!
+node 17 checked!...36 matches found!
+node 18 checked!...28 matches found!
+node 19 checked!...26 matches found!
+node 20 checked!...29 matches found!
+node 21 checked!...32 matches found!
+node 22 checked!...31 matches found!
+node 23 checked!...37 matches found!
+node 24 checked!...35 matches found!
+node 25 checked!...31 matches found!
+node 26 checked!...35 matches found!
+node 27 checked!...29 matches found!
+node 28 checked!...33 matches found!
+node 29 checked!...27 matches found!
+node 30 checked!...37 matches found!
+
+Voting array
+--------------
+[30 28 33 34 33 27 27 33 24 27 30 33 34 35 28 36 36 28 26 29 32 31 37 35 31
+ 35 29 33 27 37]
+
+Putative nodes
+------------
+[26 16 17 23 30]
+
+Best matching node from voting array
+----------------------------------------
+23
+
+Presence of query node in putative nodes
+----------------------------------------
+Absent
+
+
+ Node 12 testing completed!
+
+
+Node 13 -> query image 1
+------------------------
+
+0 features detected!
+
+Checking for matches...
+
+node 1 checked!...0 matches found!
+node 2 checked!...0 matches found!
+node 3 checked!...0 matches found!
+node 4 checked!...0 matches found!
+node 5 checked!...0 matches found!
+node 6 checked!...0 matches found!
+node 7 checked!...0 matches found!
+node 8 checked!...0 matches found!
+node 9 checked!...0 matches found!
+node 10 checked!...0 matches found!
+node 11 checked!...0 matches found!
+node 12 checked!...0 matches found!
+node 13 checked!...0 matches found!
+node 14 checked!...0 matches found!
+node 15 checked!...0 matches found!
+node 16 checked!...0 matches found!
+node 17 checked!...0 matches found!
+node 18 checked!...0 matches found!
+node 19 checked!...0 matches found!
+node 20 checked!...0 matches found!
+node 21 checked!...0 matches found!
+node 22 checked!...0 matches found!
+node 23 checked!...0 matches found!
+node 24 checked!...0 matches found!
+node 25 checked!...0 matches found!
+node 26 checked!...0 matches found!
+node 27 checked!...0 matches found!
+node 28 checked!...0 matches found!
+node 29 checked!...0 matches found!
+node 30 checked!...0 matches found!
+
+Voting array
+--------------
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+Unable to predict a matching node and putative nodes!
+
+ Node 13 testing completed!
+
+
+Node 14 -> query image 1
+------------------------
+
+0 features detected!
+
+Checking for matches...
+
+node 1 checked!...0 matches found!
+node 2 checked!...0 matches found!
+node 3 checked!...0 matches found!
+node 4 checked!...0 matches found!
+node 5 checked!...0 matches found!
+node 6 checked!...0 matches found!
+node 7 checked!...0 matches found!
+node 8 checked!...0 matches found!
+node 9 checked!...0 matches found!
+node 10 checked!...0 matches found!
+node 11 checked!...0 matches found!
+node 12 checked!...0 matches found!
+node 13 checked!...0 matches found!
+node 14 checked!...0 matches found!
+node 15 checked!...0 matches found!
+node 16 checked!...0 matches found!
+node 17 checked!...0 matches found!
+node 18 checked!...0 matches found!
+node 19 checked!...0 matches found!
+node 20 checked!...0 matches found!
+node 21 checked!...0 matches found!
+node 22 checked!...0 matches found!
+node 23 checked!...0 matches found!
+node 24 checked!...0 matches found!
+node 25 checked!...0 matches found!
+node 26 checked!...0 matches found!
+node 27 checked!...0 matches found!
+node 28 checked!...0 matches found!
+node 29 checked!...0 matches found!
+node 30 checked!...0 matches found!
+
+Voting array
+--------------
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+Unable to predict a matching node and putative nodes!
+
+ Node 14 testing completed!
+
+
+Node 15 -> query image 1
+------------------------
+
+0 features detected!
+
+Checking for matches...
+
+node 1 checked!...0 matches found!
+node 2 checked!...0 matches found!
+node 3 checked!...0 matches found!
+node 4 checked!...0 matches found!
+node 5 checked!...0 matches found!
+node 6 checked!...0 matches found!
+node 7 checked!...0 matches found!
+node 8 checked!...0 matches found!
+node 9 checked!...0 matches found!
+node 10 checked!...0 matches found!
+node 11 checked!...0 matches found!
+node 12 checked!...0 matches found!
+node 13 checked!...0 matches found!
+node 14 checked!...0 matches found!
+node 15 checked!...0 matches found!
+node 16 checked!...0 matches found!
+node 17 checked!...0 matches found!
+node 18 checked!...0 matches found!
+node 19 checked!...0 matches found!
+node 20 checked!...0 matches found!
+node 21 checked!...0 matches found!
+node 22 checked!...0 matches found!
+node 23 checked!...0 matches found!
+node 24 checked!...0 matches found!
+node 25 checked!...0 matches found!
+node 26 checked!...0 matches found!
+node 27 checked!...0 matches found!
+node 28 checked!...0 matches found!
+node 29 checked!...0 matches found!
+node 30 checked!...0 matches found!
+
+Voting array
+--------------
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+Unable to predict a matching node and putative nodes!
+
+ Node 15 testing completed!
+
+
+Node 16 -> query image 1
+------------------------
+
+0 features detected!
+
+Checking for matches...
+
+node 1 checked!...0 matches found!
+node 2 checked!...0 matches found!
+node 3 checked!...0 matches found!
+node 4 checked!...0 matches found!
+node 5 checked!...0 matches found!
+node 6 checked!...0 matches found!
+node 7 checked!...0 matches found!
+node 8 checked!...0 matches found!
+node 9 checked!...0 matches found!
+node 10 checked!...0 matches found!
+node 11 checked!...0 matches found!
+node 12 checked!...0 matches found!
+node 13 checked!...0 matches found!
+node 14 checked!...0 matches found!
+node 15 checked!...0 matches found!
+node 16 checked!...0 matches found!
+node 17 checked!...0 matches found!
+node 18 checked!...0 matches found!
+node 19 checked!...0 matches found!
+node 20 checked!...0 matches found!
+node 21 checked!...0 matches found!
+node 22 checked!...0 matches found!
+node 23 checked!...0 matches found!
+node 24 checked!...0 matches found!
+node 25 checked!...0 matches found!
+node 26 checked!...0 matches found!
+node 27 checked!...0 matches found!
+node 28 checked!...0 matches found!
+node 29 checked!...0 matches found!
+node 30 checked!...0 matches found!
+
+Voting array
+--------------
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+Unable to predict a matching node and putative nodes!
+
+ Node 16 testing completed!
+
+
+Node 17 -> query image 1
+------------------------
+
+100 features detected!
+
+Checking for matches...
+
+node 1 checked!...36 matches found!
+node 2 checked!...34 matches found!
+node 3 checked!...32 matches found!
+node 4 checked!...38 matches found!
+node 5 checked!...36 matches found!
+node 6 checked!...36 matches found!
+node 7 checked!...38 matches found!
+node 8 checked!...42 matches found!
+node 9 checked!...34 matches found!
+node 10 checked!...36 matches found!
+node 11 checked!...31 matches found!
+node 12 checked!...32 matches found!
+node 13 checked!...35 matches found!
+node 14 checked!...33 matches found!
+node 15 checked!...34 matches found!
+node 16 checked!...38 matches found!
+node 17 checked!...38 matches found!
+node 18 checked!...33 matches found!
+node 19 checked!...35 matches found!
+node 20 checked!...34 matches found!
+node 21 checked!...37 matches found!
+node 22 checked!...34 matches found!
+node 23 checked!...38 matches found!
+node 24 checked!...39 matches found!
+node 25 checked!...32 matches found!
+node 26 checked!...34 matches found!
+node 27 checked!...35 matches found!
+node 28 checked!...35 matches found!
+node 29 checked!...31 matches found!
+node 30 checked!...36 matches found!
+
+Voting array
+--------------
+[36 34 32 38 36 36 38 42 34 36 31 32 35 33 34 38 38 33 35 34 37 34 38 39 32
+ 34 35 35 31 36]
+
+Putative nodes
+------------
+[ 7 23 16 24  8]
+
+Best matching node from voting array
+----------------------------------------
+8
+
+Presence of query node in putative nodes
+----------------------------------------
+Absent
+
+
+ Node 17 testing completed!
+
+
+Node 18 -> query image 1
+------------------------
+
+100 features detected!
+
+Checking for matches...
+
+node 1 checked!...29 matches found!
+node 2 checked!...32 matches found!
+node 3 checked!...33 matches found!
+node 4 checked!...42 matches found!
+node 5 checked!...36 matches found!
+node 6 checked!...31 matches found!
+node 7 checked!...34 matches found!
+node 8 checked!...33 matches found!
+node 9 checked!...31 matches found!
+node 10 checked!...35 matches found!
+node 11 checked!...32 matches found!
+node 12 checked!...31 matches found!
+node 13 checked!...35 matches found!
+node 14 checked!...37 matches found!
+node 15 checked!...36 matches found!
+node 16 checked!...33 matches found!
+node 17 checked!...29 matches found!
+node 18 checked!...34 matches found!
+node 19 checked!...31 matches found!
+node 20 checked!...28 matches found!
+node 21 checked!...31 matches found!
+node 22 checked!...33 matches found!
+node 23 checked!...36 matches found!
+node 24 checked!...36 matches found!
+node 25 checked!...28 matches found!
+node 26 checked!...32 matches found!
+node 27 checked!...34 matches found!
+node 28 checked!...33 matches found!
+node 29 checked!...33 matches found!
+node 30 checked!...34 matches found!
+
+Voting array
+--------------
+[29 32 33 42 36 31 34 33 31 35 32 31 35 37 36 33 29 34 31 28 31 33 36 36 28
+ 32 34 33 33 34]
+
+Putative nodes
+------------
+[23 15 24  4 14]
+
+Best matching node from voting array
+----------------------------------------
+4
+
+Presence of query node in putative nodes
+----------------------------------------
+Absent
+
+
+ Node 18 testing completed!
+
+
+Node 19 -> query image 1
+------------------------
+
+0 features detected!
+
+Checking for matches...
+
+node 1 checked!...0 matches found!
+node 2 checked!...0 matches found!
+node 3 checked!...0 matches found!
+node 4 checked!...0 matches found!
+node 5 checked!...0 matches found!
+node 6 checked!...0 matches found!
+node 7 checked!...0 matches found!
+node 8 checked!...0 matches found!
+node 9 checked!...0 matches found!
+node 10 checked!...0 matches found!
+node 11 checked!...0 matches found!
+node 12 checked!...0 matches found!
+node 13 checked!...0 matches found!
+node 14 checked!...0 matches found!
+node 15 checked!...0 matches found!
+node 16 checked!...0 matches found!
+node 17 checked!...0 matches found!
+node 18 checked!...0 matches found!
+node 19 checked!...0 matches found!
+node 20 checked!...0 matches found!
+node 21 checked!...0 matches found!
+node 22 checked!...0 matches found!
+node 23 checked!...0 matches found!
+node 24 checked!...0 matches found!
+node 25 checked!...0 matches found!
+node 26 checked!...0 matches found!
+node 27 checked!...0 matches found!
+node 28 checked!...0 matches found!
+node 29 checked!...0 matches found!
+node 30 checked!...0 matches found!
+
+Voting array
+--------------
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+Unable to predict a matching node and putative nodes!
+
+ Node 19 testing completed!
+
+
+Node 20 -> query image 1
+------------------------
+
+101 features detected!
+
+Checking for matches...
+
+node 1 checked!...32 matches found!
+node 2 checked!...36 matches found!
+node 3 checked!...42 matches found!
+node 4 checked!...39 matches found!
+node 5 checked!...38 matches found!
+node 6 checked!...35 matches found!
+node 7 checked!...35 matches found!
+node 8 checked!...40 matches found!
+node 9 checked!...32 matches found!
+node 10 checked!...36 matches found!
+node 11 checked!...38 matches found!
+node 12 checked!...37 matches found!
+node 13 checked!...38 matches found!
+node 14 checked!...41 matches found!
+node 15 checked!...35 matches found!
+node 16 checked!...38 matches found!
+node 17 checked!...43 matches found!
+node 18 checked!...36 matches found!
+node 19 checked!...35 matches found!
+node 20 checked!...38 matches found!
+node 21 checked!...37 matches found!
+node 22 checked!...39 matches found!
+node 23 checked!...42 matches found!
+node 24 checked!...45 matches found!
+node 25 checked!...32 matches found!
+node 26 checked!...35 matches found!
+node 27 checked!...35 matches found!
+node 28 checked!...38 matches found!
+node 29 checked!...32 matches found!
+node 30 checked!...39 matches found!
+
+Voting array
+--------------
+[32 36 42 39 38 35 35 40 32 36 38 37 38 41 35 38 43 36 35 38 37 39 42 45 32
+ 35 35 38 32 39]
+
+Putative nodes
+------------
+[14 23  3 17 24]
+
+Best matching node from voting array
+----------------------------------------
+24
+
+Presence of query node in putative nodes
+----------------------------------------
+Absent
+
+
+ Node 20 testing completed!
+
+
+Node 21 -> query image 1
+------------------------
+
+0 features detected!
+
+Checking for matches...
+
+node 1 checked!...0 matches found!
+node 2 checked!...0 matches found!
+node 3 checked!...0 matches found!
+node 4 checked!...0 matches found!
+node 5 checked!...0 matches found!
+node 6 checked!...0 matches found!
+node 7 checked!...0 matches found!
+node 8 checked!...0 matches found!
+node 9 checked!...0 matches found!
+node 10 checked!...0 matches found!
+node 11 checked!...0 matches found!
+node 12 checked!...0 matches found!
+node 13 checked!...0 matches found!
+node 14 checked!...0 matches found!
+node 15 checked!...0 matches found!
+node 16 checked!...0 matches found!
+node 17 checked!...0 matches found!
+node 18 checked!...0 matches found!
+node 19 checked!...0 matches found!
+node 20 checked!...0 matches found!
+node 21 checked!...0 matches found!
+node 22 checked!...0 matches found!
+node 23 checked!...0 matches found!
+node 24 checked!...0 matches found!
+node 25 checked!...0 matches found!
+node 26 checked!...0 matches found!
+node 27 checked!...0 matches found!
+node 28 checked!...0 matches found!
+node 29 checked!...0 matches found!
+node 30 checked!...0 matches found!
+
+Voting array
+--------------
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+Unable to predict a matching node and putative nodes!
+
+ Node 21 testing completed!
+
+
+Node 22 -> query image 1
+------------------------
+
+0 features detected!
+
+Checking for matches...
+
+node 1 checked!...0 matches found!
+node 2 checked!...0 matches found!
+node 3 checked!...0 matches found!
+node 4 checked!...0 matches found!
+node 5 checked!...0 matches found!
+node 6 checked!...0 matches found!
+node 7 checked!...0 matches found!
+node 8 checked!...0 matches found!
+node 9 checked!...0 matches found!
+node 10 checked!...0 matches found!
+node 11 checked!...0 matches found!
+node 12 checked!...0 matches found!
+node 13 checked!...0 matches found!
+node 14 checked!...0 matches found!
+node 15 checked!...0 matches found!
+node 16 checked!...0 matches found!
+node 17 checked!...0 matches found!
+node 18 checked!...0 matches found!
+node 19 checked!...0 matches found!
+node 20 checked!...0 matches found!
+node 21 checked!...0 matches found!
+node 22 checked!...0 matches found!
+node 23 checked!...0 matches found!
+node 24 checked!...0 matches found!
+node 25 checked!...0 matches found!
+node 26 checked!...0 matches found!
+node 27 checked!...0 matches found!
+node 28 checked!...0 matches found!
+node 29 checked!...0 matches found!
+node 30 checked!...0 matches found!
+
+Voting array
+--------------
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+Unable to predict a matching node and putative nodes!
+
+ Node 22 testing completed!
+
+
+Node 23 -> query image 1
+------------------------
+
+100 features detected!
+
+Checking for matches...
+
+node 1 checked!...33 matches found!
+node 2 checked!...32 matches found!
+node 3 checked!...36 matches found!
+node 4 checked!...43 matches found!
+node 5 checked!...36 matches found!
+node 6 checked!...33 matches found!
+node 7 checked!...29 matches found!
+node 8 checked!...38 matches found!
+node 9 checked!...32 matches found!
+node 10 checked!...40 matches found!
+node 11 checked!...32 matches found!
+node 12 checked!...41 matches found!
+node 13 checked!...41 matches found!
+node 14 checked!...36 matches found!
+node 15 checked!...34 matches found!
+node 16 checked!...38 matches found!
+node 17 checked!...42 matches found!
+node 18 checked!...37 matches found!
+node 19 checked!...39 matches found!
+node 20 checked!...35 matches found!
+node 21 checked!...42 matches found!
+node 22 checked!...39 matches found!
+node 23 checked!...35 matches found!
+node 24 checked!...37 matches found!
+node 25 checked!...34 matches found!
+node 26 checked!...41 matches found!
+node 27 checked!...36 matches found!
+node 28 checked!...44 matches found!
+node 29 checked!...34 matches found!
+node 30 checked!...38 matches found!
+
+Voting array
+--------------
+[33 32 36 43 36 33 29 38 32 40 32 41 41 36 34 38 42 37 39 35 42 39 35 37 34
+ 41 36 44 34 38]
+
+Putative nodes
+------------
+[26 17 28 21  4]
+
+Best matching node from voting array
+----------------------------------------
+28
+
+Presence of query node in putative nodes
+----------------------------------------
+Absent
+
+
+ Node 23 testing completed!
+
+
+Node 24 -> query image 1
+------------------------
+
+0 features detected!
+
+Checking for matches...
+
+node 1 checked!...0 matches found!
+node 2 checked!...0 matches found!
+node 3 checked!...0 matches found!
+node 4 checked!...0 matches found!
+node 5 checked!...0 matches found!
+node 6 checked!...0 matches found!
+node 7 checked!...0 matches found!
+node 8 checked!...0 matches found!
+node 9 checked!...0 matches found!
+node 10 checked!...0 matches found!
+node 11 checked!...0 matches found!
+node 12 checked!...0 matches found!
+node 13 checked!...0 matches found!
+node 14 checked!...0 matches found!
+node 15 checked!...0 matches found!
+node 16 checked!...0 matches found!
+node 17 checked!...0 matches found!
+node 18 checked!...0 matches found!
+node 19 checked!...0 matches found!
+node 20 checked!...0 matches found!
+node 21 checked!...0 matches found!
+node 22 checked!...0 matches found!
+node 23 checked!...0 matches found!
+node 24 checked!...0 matches found!
+node 25 checked!...0 matches found!
+node 26 checked!...0 matches found!
+node 27 checked!...0 matches found!
+node 28 checked!...0 matches found!
+node 29 checked!...0 matches found!
+node 30 checked!...0 matches found!
+
+Voting array
+--------------
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+Unable to predict a matching node and putative nodes!
+
+ Node 24 testing completed!
+
+
+Node 25 -> query image 1
+------------------------
+
+97 features detected!
+
+Checking for matches...
+
+node 1 checked!...35 matches found!
+node 2 checked!...37 matches found!
+node 3 checked!...36 matches found!
+node 4 checked!...44 matches found!
+node 5 checked!...40 matches found!
+node 6 checked!...39 matches found!
+node 7 checked!...36 matches found!
+node 8 checked!...38 matches found!
+node 9 checked!...33 matches found!
+node 10 checked!...32 matches found!
+node 11 checked!...35 matches found!
+node 12 checked!...34 matches found!
+node 13 checked!...38 matches found!
+node 14 checked!...33 matches found!
+node 15 checked!...32 matches found!
+node 16 checked!...38 matches found!
+node 17 checked!...38 matches found!
+node 18 checked!...34 matches found!
+node 19 checked!...32 matches found!
+node 20 checked!...31 matches found!
+node 21 checked!...38 matches found!
+node 22 checked!...38 matches found!
+node 23 checked!...44 matches found!
+node 24 checked!...39 matches found!
+node 25 checked!...39 matches found!
+node 26 checked!...41 matches found!
+node 27 checked!...36 matches found!
+node 28 checked!...36 matches found!
+node 29 checked!...35 matches found!
+node 30 checked!...39 matches found!
+
+Voting array
+--------------
+[35 37 36 44 40 39 36 38 33 32 35 34 38 33 32 38 38 34 32 31 38 38 44 39 39
+ 41 36 36 35 39]
+
+Putative nodes
+------------
+[24  5 26 23  4]
+
+Best matching node from voting array
+----------------------------------------
+4
+
+Presence of query node in putative nodes
+----------------------------------------
+Absent
+
+
+ Node 25 testing completed!
+
+
+Node 26 -> query image 1
+------------------------
+
+0 features detected!
+
+Checking for matches...
+
+node 1 checked!...0 matches found!
+node 2 checked!...0 matches found!
+node 3 checked!...0 matches found!
+node 4 checked!...0 matches found!
+node 5 checked!...0 matches found!
+node 6 checked!...0 matches found!
+node 7 checked!...0 matches found!
+node 8 checked!...0 matches found!
+node 9 checked!...0 matches found!
+node 10 checked!...0 matches found!
+node 11 checked!...0 matches found!
+node 12 checked!...0 matches found!
+node 13 checked!...0 matches found!
+node 14 checked!...0 matches found!
+node 15 checked!...0 matches found!
+node 16 checked!...0 matches found!
+node 17 checked!...0 matches found!
+node 18 checked!...0 matches found!
+node 19 checked!...0 matches found!
+node 20 checked!...0 matches found!
+node 21 checked!...0 matches found!
+node 22 checked!...0 matches found!
+node 23 checked!...0 matches found!
+node 24 checked!...0 matches found!
+node 25 checked!...0 matches found!
+node 26 checked!...0 matches found!
+node 27 checked!...0 matches found!
+node 28 checked!...0 matches found!
+node 29 checked!...0 matches found!
+node 30 checked!...0 matches found!
+
+Voting array
+--------------
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+Unable to predict a matching node and putative nodes!
+
+ Node 26 testing completed!
+
+
+Node 27 -> query image 1
+------------------------
+
+98 features detected!
+
+Checking for matches...
+
+node 1 checked!...34 matches found!
+node 2 checked!...39 matches found!
+node 3 checked!...41 matches found!
+node 4 checked!...41 matches found!
+node 5 checked!...41 matches found!
+node 6 checked!...36 matches found!
+node 7 checked!...34 matches found!
+node 8 checked!...38 matches found!
+node 9 checked!...31 matches found!
+node 10 checked!...35 matches found!
+node 11 checked!...36 matches found!
+node 12 checked!...34 matches found!
+node 13 checked!...39 matches found!
+node 14 checked!...41 matches found!
+node 15 checked!...32 matches found!
+node 16 checked!...36 matches found!
+node 17 checked!...40 matches found!
+node 18 checked!...37 matches found!
+node 19 checked!...37 matches found!
+node 20 checked!...38 matches found!
+node 21 checked!...41 matches found!
+node 22 checked!...37 matches found!
+node 23 checked!...40 matches found!
+node 24 checked!...38 matches found!
+node 25 checked!...33 matches found!
+node 26 checked!...34 matches found!
+node 27 checked!...35 matches found!
+node 28 checked!...33 matches found!
+node 29 checked!...34 matches found!
+node 30 checked!...39 matches found!
+
+Voting array
+--------------
+[34 39 41 41 41 36 34 38 31 35 36 34 39 41 32 36 40 37 37 38 41 37 40 38 33
+ 34 35 33 34 39]
+
+Putative nodes
+------------
+[ 3 21  4  5 14]
+
+Best matching node from voting array
+----------------------------------------
+3
+
+Presence of query node in putative nodes
+----------------------------------------
+Absent
+
+
+ Node 27 testing completed!
+
+
+Node 28 -> query image 1
+------------------------
+
+0 features detected!
+
+Checking for matches...
+
+node 1 checked!...0 matches found!
+node 2 checked!...0 matches found!
+node 3 checked!...0 matches found!
+node 4 checked!...0 matches found!
+node 5 checked!...0 matches found!
+node 6 checked!...0 matches found!
+node 7 checked!...0 matches found!
+node 8 checked!...0 matches found!
+node 9 checked!...0 matches found!
+node 10 checked!...0 matches found!
+node 11 checked!...0 matches found!
+node 12 checked!...0 matches found!
+node 13 checked!...0 matches found!
+node 14 checked!...0 matches found!
+node 15 checked!...0 matches found!
+node 16 checked!...0 matches found!
+node 17 checked!...0 matches found!
+node 18 checked!...0 matches found!
+node 19 checked!...0 matches found!
+node 20 checked!...0 matches found!
+node 21 checked!...0 matches found!
+node 22 checked!...0 matches found!
+node 23 checked!...0 matches found!
+node 24 checked!...0 matches found!
+node 25 checked!...0 matches found!
+node 26 checked!...0 matches found!
+node 27 checked!...0 matches found!
+node 28 checked!...0 matches found!
+node 29 checked!...0 matches found!
+node 30 checked!...0 matches found!
+
+Voting array
+--------------
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+Unable to predict a matching node and putative nodes!
+
+ Node 28 testing completed!
+
+
+Node 29 -> query image 1
+------------------------
+
+0 features detected!
+
+Checking for matches...
+
+node 1 checked!...0 matches found!
+node 2 checked!...0 matches found!
+node 3 checked!...0 matches found!
+node 4 checked!...0 matches found!
+node 5 checked!...0 matches found!
+node 6 checked!...0 matches found!
+node 7 checked!...0 matches found!
+node 8 checked!...0 matches found!
+node 9 checked!...0 matches found!
+node 10 checked!...0 matches found!
+node 11 checked!...0 matches found!
+node 12 checked!...0 matches found!
+node 13 checked!...0 matches found!
+node 14 checked!...0 matches found!
+node 15 checked!...0 matches found!
+node 16 checked!...0 matches found!
+node 17 checked!...0 matches found!
+node 18 checked!...0 matches found!
+node 19 checked!...0 matches found!
+node 20 checked!...0 matches found!
+node 21 checked!...0 matches found!
+node 22 checked!...0 matches found!
+node 23 checked!...0 matches found!
+node 24 checked!...0 matches found!
+node 25 checked!...0 matches found!
+node 26 checked!...0 matches found!
+node 27 checked!...0 matches found!
+node 28 checked!...0 matches found!
+node 29 checked!...0 matches found!
+node 30 checked!...0 matches found!
+
+Voting array
+--------------
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+Unable to predict a matching node and putative nodes!
+
+ Node 29 testing completed!
+
+
+Node 30 -> query image 1
+------------------------
+
+0 features detected!
+
+Checking for matches...
+
+node 1 checked!...0 matches found!
+node 2 checked!...0 matches found!
+node 3 checked!...0 matches found!
+node 4 checked!...0 matches found!
+node 5 checked!...0 matches found!
+node 6 checked!...0 matches found!
+node 7 checked!...0 matches found!
+node 8 checked!...0 matches found!
+node 9 checked!...0 matches found!
+node 10 checked!...0 matches found!
+node 11 checked!...0 matches found!
+node 12 checked!...0 matches found!
+node 13 checked!...0 matches found!
+node 14 checked!...0 matches found!
+node 15 checked!...0 matches found!
+node 16 checked!...0 matches found!
+node 17 checked!...0 matches found!
+node 18 checked!...0 matches found!
+node 19 checked!...0 matches found!
+node 20 checked!...0 matches found!
+node 21 checked!...0 matches found!
+node 22 checked!...0 matches found!
+node 23 checked!...0 matches found!
+node 24 checked!...0 matches found!
+node 25 checked!...0 matches found!
+node 26 checked!...0 matches found!
+node 27 checked!...0 matches found!
+node 28 checked!...0 matches found!
+node 29 checked!...0 matches found!
+node 30 checked!...0 matches found!
+
+Voting array
+--------------
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+
+Unable to predict a matching node and putative nodes!
+
+ Node 30 testing completed!
+
+Results
+-------
+
+Performance criteria
+--------------------
++------+-------------+-------------+-----------+--------+-------------+----------+
+| Node | Presence(%) | Accuracy(%) | Precision | Recall | Specificity | F1 Score |
++------+-------------+-------------+-----------+--------+-------------+----------+
+|  1   |     0.0     |     96.7    |    nan    |  0.0   |     0.0     |   1.0    |
+|  2   |     0.0     |     96.7    |    nan    |  0.0   |     0.0     |   1.0    |
+|  3   |     0.0     |     93.3    |    0.0    |  0.0   |     0.0     |  0.966   |
+|  4   |     0.0     |     90.0    |    0.0    |  0.0   |     0.0     |  0.931   |
+|  5   |    100.0    |     96.7    |    nan    |  0.0   |     0.0     |   1.0    |
+|  6   |     0.0     |     96.7    |    nan    |  0.0   |     0.0     |   1.0    |
+|  7   |     0.0     |     96.7    |    nan    |  0.0   |     0.0     |   1.0    |
+|  8   |     0.0     |     93.3    |    0.0    |  0.0   |     0.0     |  0.966   |
+|  9   |     0.0     |     96.7    |    nan    |  0.0   |     0.0     |   1.0    |
+|  10  |     0.0     |     96.7    |    nan    |  0.0   |     0.0     |   1.0    |
+|  11  |     0.0     |     96.7    |    nan    |  0.0   |     0.0     |   1.0    |
+|  12  |     0.0     |     96.7    |    nan    |  0.0   |     0.0     |   1.0    |
+|  13  |     0.0     |     93.3    |    0.0    |  0.0   |     0.0     |  0.966   |
+|  14  |     0.0     |     96.7    |    nan    |  0.0   |     0.0     |   1.0    |
+|  15  |     0.0     |     96.7    |    nan    |  0.0   |     0.0     |   1.0    |
+|  16  |     0.0     |     96.7    |    nan    |  0.0   |     0.0     |   1.0    |
+|  17  |     0.0     |     93.3    |    0.0    |  0.0   |     0.0     |  0.966   |
+|  18  |     0.0     |     96.7    |    nan    |  0.0   |     0.0     |   1.0    |
+|  19  |     0.0     |     96.7    |    nan    |  0.0   |     0.0     |   1.0    |
+|  20  |     0.0     |     96.7    |    nan    |  0.0   |     0.0     |   1.0    |
+|  21  |     0.0     |     96.7    |    nan    |  0.0   |     0.0     |   1.0    |
+|  22  |     0.0     |     96.7    |    nan    |  0.0   |     0.0     |   1.0    |
+|  23  |     0.0     |     90.0    |    0.0    |  0.0   |     0.0     |  0.931   |
+|  24  |     0.0     |     86.7    |    0.0    |  0.0   |     0.0     |  0.897   |
+|  25  |     0.0     |     96.7    |    nan    |  0.0   |     0.0     |   1.0    |
+|  26  |     0.0     |     96.7    |    nan    |  0.0   |     0.0     |   1.0    |
+|  27  |     0.0     |     96.7    |    nan    |  0.0   |     0.0     |   1.0    |
+|  28  |     0.0     |     93.3    |    0.0    |  0.0   |     0.0     |  0.966   |
+|  29  |     0.0     |     96.7    |    nan    |  0.0   |     0.0     |   1.0    |
+|  30  |     0.0     |     96.7    |    nan    |  0.0   |     0.0     |   1.0    |
++------+-------------+-------------+-----------+--------+-------------+----------+
+
+
+Confusion Matrix
+----------------
+[[ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  1.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  1.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  1.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  1.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  1.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  1.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  1.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  1.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  1.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  1.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]]
+Presence/Absence matrix
+----------------
+[[ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  1.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  1.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  1.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  1.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  1.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  1.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  1.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  1.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  1.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  1.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]]
+
+
+Time elapsed = 31.4 min (0.5 h)

@@ -1,0 +1,1166 @@
+
+Brute force place recognition using Brute Force matcher
+
+-------------------------------------------------------
+No. of nodes = 49
+No. of query images = 9
+No. of putatives = 5
+Max no. of features = 100
+Verification threshold = 0.1
+Debug mode = on
+Second stage verification = on
+Image type of test images= png
+Image type of trial images= jpg
+Trial image set path - ISLAB/
+Query image set path - Test_images_ISLAB_cropped/
+Simulation log path - simulation_log_files/
+
+-------------------------------------------------------
+
+Directory created successfully! 
+
+Directory created successfully! 
+
+
+
+Node 1 -> query image 1
+------------------------
+
+91 features detected!
+
+Checking for matches...
+
+node 1 checked!...22 matches found!
+node 2 checked!...29 matches found!
+node 3 checked!...29 matches found!
+node 4 checked!...29 matches found!
+node 5 checked!...23 matches found!
+node 6 checked!...22 matches found!
+node 7 checked!...26 matches found!
+node 8 checked!...35 matches found!
+node 9 checked!...27 matches found!
+node 10 checked!...25 matches found!
+node 11 checked!...29 matches found!
+node 12 checked!...29 matches found!
+node 13 checked!...27 matches found!
+node 14 checked!...29 matches found!
+node 15 checked!...26 matches found!
+node 16 checked!...40 matches found!
+node 17 checked!...30 matches found!
+node 18 checked!...29 matches found!
+node 19 checked!...33 matches found!
+node 20 checked!...28 matches found!
+node 21 checked!...32 matches found!
+node 22 checked!...29 matches found!
+node 23 checked!...23 matches found!
+node 24 checked!...25 matches found!
+node 25 checked!...23 matches found!
+node 26 checked!...25 matches found!
+node 27 checked!...34 matches found!
+node 28 checked!...19 matches found!
+node 29 checked!...29 matches found!
+node 30 checked!...34 matches found!
+node 31 checked!...26 matches found!
+node 32 checked!...30 matches found!
+node 33 checked!...32 matches found!
+node 34 checked!...28 matches found!
+node 35 checked!...30 matches found!
+node 36 checked!...24 matches found!
+node 37 checked!...32 matches found!
+node 38 checked!...34 matches found!
+node 39 checked!...29 matches found!
+node 40 checked!...23 matches found!
+node 41 checked!...25 matches found!
+node 42 checked!...23 matches found!
+node 43 checked!...34 matches found!
+node 44 checked!...26 matches found!
+node 45 checked!...23 matches found!
+node 46 checked!...31 matches found!
+node 47 checked!...23 matches found!
+node 48 checked!...27 matches found!
+node 49 checked!...28 matches found!
+
+Voting array : [22 29 29 29 23 22 26 35 27 25 29 29 27 29 26 40 30 29 33 28 32 29 23 25 23
+ 25 34 19 29 34 26 30 32 28 30 24 32 34 29 23 25 23 34 26 23 31 23 27 28]
+
+Putative nodes : [38 30  8 43 16]
+
+Best matching node from voting array : 16
+
+Presence of query node in putative nodes : Absent
+
+
+Second stage verification...
+
+node 38 checked!... 0 inliers detected!... Similarity score = 0
+node 30 checked!... 0 inliers detected!... Similarity score = 0
+node 8 checked!... 12 inliers detected!... Similarity score = 0.04
+node 43 checked!... 2147 inliers detected!... Similarity score = 7.1448
+node 16 checked!... 0 inliers detected!... Similarity score = 0
+
+Verification completed!
+
+
+Closest node : 43
+ 
+
+Verification array
+-------------------
+[[  7.14475874  43.        ]]
+
+
+Node 1 -> query image 2
+------------------------
+
+97 features detected!
+
+Checking for matches...
+
+node 1 checked!...25 matches found!
+node 2 checked!...35 matches found!
+node 3 checked!...31 matches found!
+node 4 checked!...36 matches found!
+node 5 checked!...27 matches found!
+node 6 checked!...22 matches found!
+node 7 checked!...31 matches found!
+node 8 checked!...36 matches found!
+node 9 checked!...36 matches found!
+node 10 checked!...27 matches found!
+node 11 checked!...36 matches found!
+node 12 checked!...35 matches found!
+node 13 checked!...29 matches found!
+node 14 checked!...31 matches found!
+node 15 checked!...31 matches found!
+node 16 checked!...38 matches found!
+node 17 checked!...35 matches found!
+node 18 checked!...36 matches found!
+node 19 checked!...35 matches found!
+node 20 checked!...41 matches found!
+node 21 checked!...31 matches found!
+node 22 checked!...30 matches found!
+node 23 checked!...30 matches found!
+node 24 checked!...25 matches found!
+node 25 checked!...27 matches found!
+node 26 checked!...32 matches found!
+node 27 checked!...31 matches found!
+node 28 checked!...22 matches found!
+node 29 checked!...34 matches found!
+node 30 checked!...37 matches found!
+node 31 checked!...30 matches found!
+node 32 checked!...29 matches found!
+node 33 checked!...32 matches found!
+node 34 checked!...33 matches found!
+node 35 checked!...28 matches found!
+node 36 checked!...31 matches found!
+node 37 checked!...38 matches found!
+node 38 checked!...39 matches found!
+node 39 checked!...32 matches found!
+node 40 checked!...28 matches found!
+node 41 checked!...33 matches found!
+node 42 checked!...31 matches found!
+node 43 checked!...34 matches found!
+node 44 checked!...35 matches found!
+node 45 checked!...27 matches found!
+node 46 checked!...29 matches found!
+node 47 checked!...33 matches found!
+node 48 checked!...33 matches found!
+node 49 checked!...28 matches found!
+
+Voting array : [25 35 31 36 27 22 31 36 36 27 36 35 29 31 31 38 35 36 35 41 31 30 30 25 27
+ 32 31 22 34 37 30 29 32 33 28 31 38 39 32 28 33 31 34 35 27 29 33 33 28]
+
+Putative nodes : [30 37 16 38 20]
+
+Best matching node from voting array : 20
+
+Presence of query node in putative nodes : Absent
+
+
+Second stage verification...
+
+node 30 checked!... 0 inliers detected!... Similarity score = 0
+node 37 checked!... 0 inliers detected!... Similarity score = 0
+node 16 checked!... 0 inliers detected!... Similarity score = 0
+node 38 checked!... 0 inliers detected!... Similarity score = 0
+node 20 checked!... 0 inliers detected!... Similarity score = 0
+
+Verification failed !
+
+Verification array
+-------------------
+[]
+
+
+Node 1 -> query image 3
+------------------------
+
+77 features detected!
+
+Checking for matches...
+
+node 1 checked!...25 matches found!
+node 2 checked!...23 matches found!
+node 3 checked!...26 matches found!
+node 4 checked!...22 matches found!
+node 5 checked!...17 matches found!
+node 6 checked!...24 matches found!
+node 7 checked!...25 matches found!
+node 8 checked!...28 matches found!
+node 9 checked!...29 matches found!
+node 10 checked!...26 matches found!
+node 11 checked!...28 matches found!
+node 12 checked!...25 matches found!
+node 13 checked!...23 matches found!
+node 14 checked!...19 matches found!
+node 15 checked!...26 matches found!
+node 16 checked!...29 matches found!
+node 17 checked!...31 matches found!
+node 18 checked!...27 matches found!
+node 19 checked!...27 matches found!
+node 20 checked!...29 matches found!
+node 21 checked!...26 matches found!
+node 22 checked!...29 matches found!
+node 23 checked!...22 matches found!
+node 24 checked!...20 matches found!
+node 25 checked!...29 matches found!
+node 26 checked!...19 matches found!
+node 27 checked!...31 matches found!
+node 28 checked!...19 matches found!
+node 29 checked!...29 matches found!
+node 30 checked!...23 matches found!
+node 31 checked!...22 matches found!
+node 32 checked!...23 matches found!
+node 33 checked!...23 matches found!
+node 34 checked!...28 matches found!
+node 35 checked!...26 matches found!
+node 36 checked!...29 matches found!
+node 37 checked!...28 matches found!
+node 38 checked!...24 matches found!
+node 39 checked!...19 matches found!
+node 40 checked!...23 matches found!
+node 41 checked!...24 matches found!
+node 42 checked!...21 matches found!
+node 43 checked!...28 matches found!
+node 44 checked!...26 matches found!
+node 45 checked!...26 matches found!
+node 46 checked!...25 matches found!
+node 47 checked!...22 matches found!
+node 48 checked!...22 matches found!
+node 49 checked!...27 matches found!
+
+Voting array : [25 23 26 22 17 24 25 28 29 26 28 25 23 19 26 29 31 27 27 29 26 29 22 20 29
+ 19 31 19 29 23 22 23 23 28 26 29 28 24 19 23 24 21 28 26 26 25 22 22 27]
+
+Putative nodes : [16 22 29 27 17]
+
+Best matching node from voting array : 17
+
+Presence of query node in putative nodes : Absent
+
+
+Second stage verification...
+
+node 16 checked!... 0 inliers detected!... Similarity score = 0
+node 22 checked!... 0 inliers detected!... Similarity score = 0
+node 29 checked!... 0 inliers detected!... Similarity score = 0
+node 27 checked!... 0 inliers detected!... Similarity score = 0
+node 17 checked!... 0 inliers detected!... Similarity score = 0
+
+Verification failed !
+
+Verification array
+-------------------
+[]
+
+
+Node 1 -> query image 4
+------------------------
+
+96 features detected!
+
+Checking for matches...
+
+node 1 checked!...25 matches found!
+node 2 checked!...32 matches found!
+node 3 checked!...34 matches found!
+node 4 checked!...29 matches found!
+node 5 checked!...23 matches found!
+node 6 checked!...21 matches found!
+node 7 checked!...28 matches found!
+node 8 checked!...35 matches found!
+node 9 checked!...30 matches found!
+node 10 checked!...30 matches found!
+node 11 checked!...29 matches found!
+node 12 checked!...26 matches found!
+node 13 checked!...30 matches found!
+node 14 checked!...24 matches found!
+node 15 checked!...31 matches found!
+node 16 checked!...33 matches found!
+node 17 checked!...35 matches found!
+node 18 checked!...37 matches found!
+node 19 checked!...33 matches found!
+node 20 checked!...35 matches found!
+node 21 checked!...35 matches found!
+node 22 checked!...31 matches found!
+node 23 checked!...32 matches found!
+node 24 checked!...26 matches found!
+node 25 checked!...31 matches found!
+node 26 checked!...31 matches found!
+node 27 checked!...35 matches found!
+node 28 checked!...21 matches found!
+node 29 checked!...34 matches found!
+node 30 checked!...33 matches found!
+node 31 checked!...30 matches found!
+node 32 checked!...28 matches found!
+node 33 checked!...30 matches found!
+node 34 checked!...33 matches found!
+node 35 checked!...28 matches found!
+node 36 checked!...30 matches found!
+node 37 checked!...30 matches found!
+node 38 checked!...35 matches found!
+node 39 checked!...29 matches found!
+node 40 checked!...34 matches found!
+node 41 checked!...31 matches found!
+node 42 checked!...29 matches found!
+node 43 checked!...33 matches found!
+node 44 checked!...32 matches found!
+node 45 checked!...29 matches found!
+node 46 checked!...30 matches found!
+node 47 checked!...33 matches found!
+node 48 checked!...29 matches found!
+node 49 checked!...29 matches found!
+
+Voting array : [25 32 34 29 23 21 28 35 30 30 29 26 30 24 31 33 35 37 33 35 35 31 32 26 31
+ 31 35 21 34 33 30 28 30 33 28 30 30 35 29 34 31 29 33 32 29 30 33 29 29]
+
+Putative nodes : [38  8 21 20 18]
+
+Best matching node from voting array : 18
+
+Presence of query node in putative nodes : Absent
+
+
+Second stage verification...
+
+node 38 checked!... 0 inliers detected!... Similarity score = 0
+node 8 checked!... 8 inliers detected!... Similarity score = 0.0267
+node 21 checked!... 0 inliers detected!... Similarity score = 0
+node 20 checked!... 8 inliers detected!... Similarity score = 0.0267
+node 18 checked!... 0 inliers detected!... Similarity score = 0
+
+Verification failed !
+
+Verification array
+-------------------
+[]
+
+
+Node 1 -> query image 5
+------------------------
+
+84 features detected!
+
+Checking for matches...
+
+node 1 checked!...26 matches found!
+node 2 checked!...29 matches found!
+node 3 checked!...32 matches found!
+node 4 checked!...33 matches found!
+node 5 checked!...18 matches found!
+node 6 checked!...21 matches found!
+node 7 checked!...27 matches found!
+node 8 checked!...31 matches found!
+node 9 checked!...29 matches found!
+node 10 checked!...27 matches found!
+node 11 checked!...38 matches found!
+node 12 checked!...29 matches found!
+node 13 checked!...30 matches found!
+node 14 checked!...27 matches found!
+node 15 checked!...33 matches found!
+node 16 checked!...32 matches found!
+node 17 checked!...34 matches found!
+node 18 checked!...31 matches found!
+node 19 checked!...28 matches found!
+node 20 checked!...35 matches found!
+node 21 checked!...36 matches found!
+node 22 checked!...33 matches found!
+node 23 checked!...30 matches found!
+node 24 checked!...25 matches found!
+node 25 checked!...25 matches found!
+node 26 checked!...28 matches found!
+node 27 checked!...34 matches found!
+node 28 checked!...22 matches found!
+node 29 checked!...30 matches found!
+node 30 checked!...32 matches found!
+node 31 checked!...28 matches found!
+node 32 checked!...23 matches found!
+node 33 checked!...30 matches found!
+node 34 checked!...27 matches found!
+node 35 checked!...31 matches found!
+node 36 checked!...28 matches found!
+node 37 checked!...33 matches found!
+node 38 checked!...32 matches found!
+node 39 checked!...23 matches found!
+node 40 checked!...26 matches found!
+node 41 checked!...30 matches found!
+node 42 checked!...25 matches found!
+node 43 checked!...33 matches found!
+node 44 checked!...35 matches found!
+node 45 checked!...26 matches found!
+node 46 checked!...32 matches found!
+node 47 checked!...30 matches found!
+node 48 checked!...25 matches found!
+node 49 checked!...34 matches found!
+
+Voting array : [26 29 32 33 18 21 27 31 29 27 38 29 30 27 33 32 34 31 28 35 36 33 30 25 25
+ 28 34 22 30 32 28 23 30 27 31 28 33 32 23 26 30 25 33 35 26 32 30 25 34]
+
+Putative nodes : [27 20 44 21 11]
+
+Best matching node from voting array : 11
+
+Presence of query node in putative nodes : Absent
+
+
+Second stage verification...
+
+node 27 checked!... 0 inliers detected!... Similarity score = 0
+node 20 checked!... 0 inliers detected!... Similarity score = 0
+node 44 checked!... 0 inliers detected!... Similarity score = 0
+node 21 checked!... 8 inliers detected!... Similarity score = 0.0266
+node 11 checked!... 0 inliers detected!... Similarity score = 0
+
+Verification failed !
+
+Verification array
+-------------------
+[]
+
+
+Node 1 -> query image 6
+------------------------
+
+86 features detected!
+
+Checking for matches...
+
+node 1 checked!...22 matches found!
+node 2 checked!...22 matches found!
+node 3 checked!...24 matches found!
+node 4 checked!...29 matches found!
+node 5 checked!...16 matches found!
+node 6 checked!...19 matches found!
+node 7 checked!...23 matches found!
+node 8 checked!...29 matches found!
+node 9 checked!...28 matches found!
+node 10 checked!...27 matches found!
+node 11 checked!...26 matches found!
+node 12 checked!...25 matches found!
+node 13 checked!...30 matches found!
+node 14 checked!...24 matches found!
+node 15 checked!...29 matches found!
+node 16 checked!...33 matches found!
+node 17 checked!...27 matches found!
+node 18 checked!...25 matches found!
+node 19 checked!...27 matches found!
+node 20 checked!...31 matches found!
+node 21 checked!...27 matches found!
+node 22 checked!...25 matches found!
+node 23 checked!...26 matches found!
+node 24 checked!...19 matches found!
+node 25 checked!...23 matches found!
+node 26 checked!...27 matches found!
+node 27 checked!...25 matches found!
+node 28 checked!...18 matches found!
+node 29 checked!...30 matches found!
+node 30 checked!...28 matches found!
+node 31 checked!...26 matches found!
+node 32 checked!...25 matches found!
+node 33 checked!...23 matches found!
+node 34 checked!...27 matches found!
+node 35 checked!...22 matches found!
+node 36 checked!...27 matches found!
+node 37 checked!...30 matches found!
+node 38 checked!...32 matches found!
+node 39 checked!...22 matches found!
+node 40 checked!...28 matches found!
+node 41 checked!...33 matches found!
+node 42 checked!...25 matches found!
+node 43 checked!...27 matches found!
+node 44 checked!...27 matches found!
+node 45 checked!...21 matches found!
+node 46 checked!...27 matches found!
+node 47 checked!...21 matches found!
+node 48 checked!...23 matches found!
+node 49 checked!...27 matches found!
+
+Voting array : [22 22 24 29 16 19 23 29 28 27 26 25 30 24 29 33 27 25 27 31 27 25 26 19 23
+ 27 25 18 30 28 26 25 23 27 22 27 30 32 22 28 33 25 27 27 21 27 21 23 27]
+
+Putative nodes : [37 20 38 16 41]
+
+Best matching node from voting array : 16
+
+Presence of query node in putative nodes : Absent
+
+
+Second stage verification...
+
+node 37 checked!... 0 inliers detected!... Similarity score = 0
+node 20 checked!... 0 inliers detected!... Similarity score = 0
+node 38 checked!... 0 inliers detected!... Similarity score = 0
+node 16 checked!... 0 inliers detected!... Similarity score = 0
+node 41 checked!... 0 inliers detected!... Similarity score = 0
+
+Verification failed !
+
+Verification array
+-------------------
+[]
+
+
+Node 1 -> query image 7
+------------------------
+
+94 features detected!
+
+Checking for matches...
+
+node 1 checked!...24 matches found!
+node 2 checked!...35 matches found!
+node 3 checked!...27 matches found!
+node 4 checked!...31 matches found!
+node 5 checked!...24 matches found!
+node 6 checked!...22 matches found!
+node 7 checked!...25 matches found!
+node 8 checked!...33 matches found!
+node 9 checked!...31 matches found!
+node 10 checked!...28 matches found!
+node 11 checked!...28 matches found!
+node 12 checked!...29 matches found!
+node 13 checked!...29 matches found!
+node 14 checked!...27 matches found!
+node 15 checked!...30 matches found!
+node 16 checked!...32 matches found!
+node 17 checked!...31 matches found!
+node 18 checked!...32 matches found!
+node 19 checked!...35 matches found!
+node 20 checked!...28 matches found!
+node 21 checked!...31 matches found!
+node 22 checked!...31 matches found!
+node 23 checked!...32 matches found!
+node 24 checked!...22 matches found!
+node 25 checked!...29 matches found!
+node 26 checked!...29 matches found!
+node 27 checked!...34 matches found!
+node 28 checked!...19 matches found!
+node 29 checked!...35 matches found!
+node 30 checked!...31 matches found!
+node 31 checked!...33 matches found!
+node 32 checked!...32 matches found!
+node 33 checked!...31 matches found!
+node 34 checked!...28 matches found!
+node 35 checked!...29 matches found!
+node 36 checked!...30 matches found!
+node 37 checked!...30 matches found!
+node 38 checked!...36 matches found!
+node 39 checked!...29 matches found!
+node 40 checked!...27 matches found!
+node 41 checked!...30 matches found!
+node 42 checked!...27 matches found!
+node 43 checked!...33 matches found!
+node 44 checked!...29 matches found!
+node 45 checked!...20 matches found!
+node 46 checked!...28 matches found!
+node 47 checked!...23 matches found!
+node 48 checked!...32 matches found!
+node 49 checked!...26 matches found!
+
+Voting array : [24 35 27 31 24 22 25 33 31 28 28 29 29 27 30 32 31 32 35 28 31 31 32 22 29
+ 29 34 19 35 31 33 32 31 28 29 30 30 36 29 27 30 27 33 29 20 28 23 32 26]
+
+Putative nodes : [27  2 19 38 29]
+
+Best matching node from voting array : 38
+
+Presence of query node in putative nodes : Absent
+
+
+Second stage verification...
+
+node 27 checked!... 0 inliers detected!... Similarity score = 0
+node 2 checked!... 0 inliers detected!... Similarity score = 0
+node 19 checked!... 0 inliers detected!... Similarity score = 0
+node 38 checked!... 0 inliers detected!... Similarity score = 0
+node 29 checked!... 0 inliers detected!... Similarity score = 0
+
+Verification failed !
+
+Verification array
+-------------------
+[]
+
+
+Node 1 -> query image 8
+------------------------
+
+81 features detected!
+
+Checking for matches...
+
+node 1 checked!...27 matches found!
+node 2 checked!...25 matches found!
+node 3 checked!...28 matches found!
+node 4 checked!...33 matches found!
+node 5 checked!...24 matches found!
+node 6 checked!...19 matches found!
+node 7 checked!...27 matches found!
+node 8 checked!...37 matches found!
+node 9 checked!...31 matches found!
+node 10 checked!...29 matches found!
+node 11 checked!...34 matches found!
+node 12 checked!...35 matches found!
+node 13 checked!...30 matches found!
+node 14 checked!...28 matches found!
+node 15 checked!...34 matches found!
+node 16 checked!...35 matches found!
+node 17 checked!...31 matches found!
+node 18 checked!...32 matches found!
+node 19 checked!...32 matches found!
+node 20 checked!...35 matches found!
+node 21 checked!...30 matches found!
+node 22 checked!...29 matches found!
+node 23 checked!...32 matches found!
+node 24 checked!...26 matches found!
+node 25 checked!...26 matches found!
+node 26 checked!...30 matches found!
+node 27 checked!...29 matches found!
+node 28 checked!...19 matches found!
+node 29 checked!...28 matches found!
+node 30 checked!...30 matches found!
+node 31 checked!...28 matches found!
+node 32 checked!...31 matches found!
+node 33 checked!...29 matches found!
+node 34 checked!...33 matches found!
+node 35 checked!...29 matches found!
+node 36 checked!...28 matches found!
+node 37 checked!...34 matches found!
+node 38 checked!...35 matches found!
+node 39 checked!...28 matches found!
+node 40 checked!...28 matches found!
+node 41 checked!...30 matches found!
+node 42 checked!...27 matches found!
+node 43 checked!...33 matches found!
+node 44 checked!...30 matches found!
+node 45 checked!...25 matches found!
+node 46 checked!...27 matches found!
+node 47 checked!...31 matches found!
+node 48 checked!...28 matches found!
+node 49 checked!...26 matches found!
+
+Voting array : [27 25 28 33 24 19 27 37 31 29 34 35 30 28 34 35 31 32 32 35 30 29 32 26 26
+ 30 29 19 28 30 28 31 29 33 29 28 34 35 28 28 30 27 33 30 25 27 31 28 26]
+
+Putative nodes : [38 20 16 12  8]
+
+Best matching node from voting array : 8
+
+Presence of query node in putative nodes : Absent
+
+
+Second stage verification...
+
+node 38 checked!... 0 inliers detected!... Similarity score = 0
+node 20 checked!... 0 inliers detected!... Similarity score = 0
+node 16 checked!... 0 inliers detected!... Similarity score = 0
+node 12 checked!... 0 inliers detected!... Similarity score = 0
+node 8 checked!... 0 inliers detected!... Similarity score = 0
+
+Verification failed !
+
+Verification array
+-------------------
+[]
+
+
+Node 1 -> query image 9
+------------------------
+
+83 features detected!
+
+Checking for matches...
+
+node 1 checked!...24 matches found!
+node 2 checked!...24 matches found!
+node 3 checked!...29 matches found!
+node 4 checked!...28 matches found!
+node 5 checked!...18 matches found!
+node 6 checked!...20 matches found!
+node 7 checked!...26 matches found!
+node 8 checked!...32 matches found!
+node 9 checked!...29 matches found!
+node 10 checked!...27 matches found!
+node 11 checked!...27 matches found!
+node 12 checked!...27 matches found!
+node 13 checked!...27 matches found!
+node 14 checked!...22 matches found!
+node 15 checked!...25 matches found!
+node 16 checked!...31 matches found!
+node 17 checked!...30 matches found!
+node 18 checked!...30 matches found!
+node 19 checked!...29 matches found!
+node 20 checked!...30 matches found!
+node 21 checked!...29 matches found!
+node 22 checked!...26 matches found!
+node 23 checked!...27 matches found!
+node 24 checked!...17 matches found!
+node 25 checked!...25 matches found!
+node 26 checked!...25 matches found!
+node 27 checked!...30 matches found!
+node 28 checked!...22 matches found!
+node 29 checked!...33 matches found!
+node 30 checked!...28 matches found!
+node 31 checked!...28 matches found!
+node 32 checked!...25 matches found!
+node 33 checked!...27 matches found!
+node 34 checked!...29 matches found!
+node 35 checked!...22 matches found!
+node 36 checked!...30 matches found!
+node 37 checked!...28 matches found!
+node 38 checked!...33 matches found!
+node 39 checked!...25 matches found!
+node 40 checked!...28 matches found!
+node 41 checked!...29 matches found!
+node 42 checked!...29 matches found!
+node 43 checked!...33 matches found!
+node 44 checked!...29 matches found!
+node 45 checked!...22 matches found!
+node 46 checked!...25 matches found!
+node 47 checked!...22 matches found!
+node 48 checked!...22 matches found!
+node 49 checked!...26 matches found!
+
+Voting array : [24 24 29 28 18 20 26 32 29 27 27 27 27 22 25 31 30 30 29 30 29 26 27 17 25
+ 25 30 22 33 28 28 25 27 29 22 30 28 33 25 28 29 29 33 29 22 25 22 22 26]
+
+Putative nodes : [16  8 43 29 38]
+
+Best matching node from voting array : 29
+
+Presence of query node in putative nodes : Absent
+
+
+Second stage verification...
+
+node 16 checked!... 0 inliers detected!... Similarity score = 0
+node 8 checked!... 8 inliers detected!... Similarity score = 0.0267
+node 43 checked!... 1622 inliers detected!... Similarity score = 5.3977
+node 29 checked!... 0 inliers detected!... Similarity score = 0
+node 38 checked!... 0 inliers detected!... Similarity score = 0
+
+Verification completed!
+
+
+Closest node : 43
+ 
+
+Verification array
+-------------------
+[[  5.39767055  43.        ]]
+
+
+ Node 1 testing completed!
+
+
+
+Node 2 -> query image 1
+------------------------
+
+82 features detected!
+
+Checking for matches...
+
+node 1 checked!...24 matches found!
+node 2 checked!...30 matches found!
+node 3 checked!...24 matches found!
+node 4 checked!...29 matches found!
+node 5 checked!...17 matches found!
+node 6 checked!...26 matches found!
+node 7 checked!...24 matches found!
+node 8 checked!...26 matches found!
+node 9 checked!...25 matches found!
+node 10 checked!...25 matches found!
+node 11 checked!...30 matches found!
+node 12 checked!...23 matches found!
+node 13 checked!...22 matches found!
+node 14 checked!...22 matches found!
+node 15 checked!...27 matches found!
+node 16 checked!...29 matches found!
+node 17 checked!...34 matches found!
+node 18 checked!...25 matches found!
+node 19 checked!...26 matches found!
+node 20 checked!...31 matches found!
+node 21 checked!...28 matches found!
+node 22 checked!...29 matches found!
+node 23 checked!...25 matches found!
+node 24 checked!...24 matches found!
+node 25 checked!...27 matches found!
+node 26 checked!...24 matches found!
+node 27 checked!...35 matches found!
+node 28 checked!...21 matches found!
+node 29 checked!...31 matches found!
+node 30 checked!...28 matches found!
+node 31 checked!...25 matches found!
+node 32 checked!...26 matches found!
+node 33 checked!...29 matches found!
+node 34 checked!...31 matches found!
+node 35 checked!...28 matches found!
+node 36 checked!...25 matches found!
+node 37 checked!...28 matches found!
+node 38 checked!...26 matches found!
+node 39 checked!...23 matches found!
+node 40 checked!...25 matches found!
+node 41 checked!...27 matches found!
+node 42 checked!...20 matches found!
+node 43 checked!...31 matches found!
+node 44 checked!...26 matches found!
+node 45 checked!...21 matches found!
+node 46 checked!...32 matches found!
+node 47 checked!...26 matches found!
+node 48 checked!...28 matches found!
+node 49 checked!...30 matches found!
+
+Voting array : [24 30 24 29 17 26 24 26 25 25 30 23 22 22 27 29 34 25 26 31 28 29 25 24 27
+ 24 35 21 31 28 25 26 29 31 28 25 28 26 23 25 27 20 31 26 21 32 26 28 30]
+
+Putative nodes : [43 20 46 27 17]
+
+Best matching node from voting array : 27
+
+Presence of query node in putative nodes : Absent
+
+
+Second stage verification...
+
+node 43 checked!... 0 inliers detected!... Similarity score = 0
+node 20 checked!... 0 inliers detected!... Similarity score = 0
+node 46 checked!... 22 inliers detected!... Similarity score = 0.0733
+node 27 checked!... 0 inliers detected!... Similarity score = 0
+node 17 checked!... 0 inliers detected!... Similarity score = 0
+
+Verification failed !
+
+Verification array
+-------------------
+[]
+
+
+Node 2 -> query image 2
+------------------------
+
+94 features detected!
+
+Checking for matches...
+
+node 1 checked!...22 matches found!
+node 2 checked!...24 matches found!
+node 3 checked!...30 matches found!
+node 4 checked!...34 matches found!
+node 5 checked!...29 matches found!
+node 6 checked!...19 matches found!
+node 7 checked!...29 matches found!
+node 8 checked!...29 matches found!
+node 9 checked!...30 matches found!
+node 10 checked!...34 matches found!
+node 11 checked!...35 matches found!
+node 12 checked!...32 matches found!
+node 13 checked!...29 matches found!
+node 14 checked!...24 matches found!
+node 15 checked!...31 matches found!
+node 16 checked!...39 matches found!
+node 17 checked!...31 matches found!
+node 18 checked!...33 matches found!
+node 19 checked!...28 matches found!
+node 20 checked!...33 matches found!
+node 21 checked!...35 matches found!
+node 22 checked!...32 matches found!
+node 23 checked!...26 matches found!
+node 24 checked!...23 matches found!
+node 25 checked!...28 matches found!
+node 26 checked!...29 matches found!
+node 27 checked!...29 matches found!
+node 28 checked!...20 matches found!
+node 29 checked!...29 matches found!
+node 30 checked!...36 matches found!
+node 31 checked!...28 matches found!
+node 32 checked!...24 matches found!
+node 33 checked!...30 matches found!
+node 34 checked!...28 matches found!
+node 35 checked!...28 matches found!
+node 36 checked!...27 matches found!
+node 37 checked!...33 matches found!
+node 38 checked!...31 matches found!
+node 39 checked!...26 matches found!
+node 40 checked!...22 matches found!
+node 41 checked!...28 matches found!
+node 42 checked!...23 matches found!
+node 43 checked!...31 matches found!
+node 44 checked!...33 matches found!
+node 45 checked!...22 matches found!
+node 46 checked!...28 matches found!
+node 47 checked!...28 matches found!
+node 48 checked!...25 matches found!
+node 49 checked!...28 matches found!
+
+Voting array : [22 24 30 34 29 19 29 29 30 34 35 32 29 24 31 39 31 33 28 33 35 32 26 23 28
+ 29 29 20 29 36 28 24 30 28 28 27 33 31 26 22 28 23 31 33 22 28 28 25 28]
+
+Putative nodes : [10 21 30 16 11]
+
+Best matching node from voting array : 16
+
+Presence of query node in putative nodes : Absent
+
+
+Second stage verification...
+
+node 10 checked!... 0 inliers detected!... Similarity score = 0
+node 21 checked!... 8 inliers detected!... Similarity score = 0.0267
+node 30 checked!... 0 inliers detected!... Similarity score = 0
+node 16 checked!... 0 inliers detected!... Similarity score = 0
+node 11 checked!... 0 inliers detected!... Similarity score = 0
+
+Verification failed !
+
+Verification array
+-------------------
+[]
+
+
+Node 2 -> query image 3
+------------------------
+
+67 features detected!
+
+Checking for matches...
+
+node 1 checked!...21 matches found!
+node 2 checked!...19 matches found!
+node 3 checked!...20 matches found!
+node 4 checked!...21 matches found!
+node 5 checked!...12 matches found!
+node 6 checked!...18 matches found!
+node 7 checked!...20 matches found!
+node 8 checked!...18 matches found!
+node 9 checked!...19 matches found!
+node 10 checked!...21 matches found!
+node 11 checked!...22 matches found!
+node 12 checked!...20 matches found!
+node 13 checked!...18 matches found!
+node 14 checked!...15 matches found!
+node 15 checked!...19 matches found!
+node 16 checked!...24 matches found!
+node 17 checked!...20 matches found!
+node 18 checked!...20 matches found!
+node 19 checked!...20 matches found!
+node 20 checked!...23 matches found!
+node 21 checked!...22 matches found!
+node 22 checked!...22 matches found!
+node 23 checked!...21 matches found!
+node 24 checked!...15 matches found!
+node 25 checked!...21 matches found!
+node 26 checked!...16 matches found!
+node 27 checked!...21 matches found!
+node 28 checked!...20 matches found!
+node 29 checked!...25 matches found!
+node 30 checked!...18 matches found!
+node 31 checked!...18 matches found!
+node 32 checked!...17 matches found!
+node 33 checked!...25 matches found!
+node 34 checked!...25 matches found!
+node 35 checked!...22 matches found!
+node 36 checked!...21 matches found!
+node 37 checked!...24 matches found!
+node 38 checked!...18 matches found!
+node 39 checked!...17 matches found!
+node 40 checked!...24 matches found!
+node 41 checked!...19 matches found!
+node 42 checked!...15 matches found!
+node 43 checked!...23 matches found!
+node 44 checked!...20 matches found!
+node 45 checked!...20 matches found!
+node 46 checked!...22 matches found!
+node 47 checked!...18 matches found!
+node 48 checked!...17 matches found!
+node 49 checked!...22 matches found!
+
+Voting array : [21 19 20 21 12 18 20 18 19 21 22 20 18 15 19 24 20 20 20 23 22 22 21 15 21
+ 16 21 20 25 18 18 17 25 25 22 21 24 18 17 24 19 15 23 20 20 22 18 17 22]
+
+Putative nodes : [37 16 33 34 29]
+
+Best matching node from voting array : 29
+
+Presence of query node in putative nodes : Absent
+
+
+Second stage verification...
+
+node 37 checked!... 0 inliers detected!... Similarity score = 0
+node 16 checked!... 0 inliers detected!... Similarity score = 0
+node 33 checked!... 3 inliers detected!... Similarity score = 0.01
+node 34 checked!... 1130 inliers detected!... Similarity score = 3.7667
+node 29 checked!... 0 inliers detected!... Similarity score = 0
+
+Verification completed!
+
+
+Closest node : 34
+ 
+
+Verification array
+-------------------
+[[  3.76666667  34.        ]]
+
+
+Node 2 -> query image 4
+------------------------
+
+89 features detected!
+
+Checking for matches...
+
+node 1 checked!...26 matches found!
+node 2 checked!...30 matches found!
+node 3 checked!...27 matches found!
+node 4 checked!...27 matches found!
+node 5 checked!...19 matches found!
+node 6 checked!...26 matches found!
+node 7 checked!...23 matches found!
+node 8 checked!...26 matches found!
+node 9 checked!...25 matches found!
+node 10 checked!...25 matches found!
+node 11 checked!...29 matches found!
+node 12 checked!...25 matches found!
+node 13 checked!...20 matches found!
+node 14 checked!...21 matches found!
+node 15 checked!...30 matches found!
+node 16 checked!...31 matches found!
+node 17 checked!...31 matches found!
+node 18 checked!...30 matches found!
+node 19 checked!...33 matches found!
+node 20 checked!...30 matches found!
+node 21 checked!...29 matches found!
+node 22 checked!...28 matches found!
+node 23 checked!...25 matches found!
+node 24 checked!...21 matches found!
+node 25 checked!...28 matches found!
+node 26 checked!...27 matches found!
+node 27 checked!...35 matches found!
+node 28 checked!...20 matches found!
+node 29 checked!...34 matches found!
+node 30 checked!...29 matches found!
+node 31 checked!...29 matches found!
+node 32 checked!...29 matches found!
+node 33 checked!...27 matches found!
+node 34 checked!...29 matches found!
+node 35 checked!...28 matches found!
+node 36 checked!...30 matches found!
+node 37 checked!...32 matches found!
+node 38 checked!...28 matches found!
+node 39 checked!...27 matches found!
+node 40 checked!...28 matches found!
+node 41 checked!...30 matches found!
+node 42 checked!...22 matches found!
+node 43 checked!...35 matches found!
+node 44 checked!...28 matches found!
+node 45 checked!...21 matches found!
+node 46 checked!...29 matches found!
+node 47 checked!...23 matches found!
+node 48 checked!...27 matches found!
+node 49 checked!...31 matches found!
+
+Voting array : [26 30 27 27 19 26 23 26 25 25 29 25 20 21 30 31 31 30 33 30 29 28 25 21 28
+ 27 35 20 34 29 29 29 27 29 28 30 32 28 27 28 30 22 35 28 21 29 23 27 31]
+
+Putative nodes : [37 19 29 43 27]
+
+Best matching node from voting array : 27
+
+Presence of query node in putative nodes : Absent
+
+
+Second stage verification...
+
+node 37 checked!... 0 inliers detected!... Similarity score = 0
+node 19 checked!... 0 inliers detected!... Similarity score = 0
+node 29 checked!... 0 inliers detected!... Similarity score = 0
+node 43 checked!... 0 inliers detected!... Similarity score = 0
+node 27 checked!... 0 inliers detected!... Similarity score = 0
+
+Verification failed !
+
+Verification array
+-------------------
+[]
+
+
+Node 2 -> query image 5
+------------------------
+
+91 features detected!
+
+Checking for matches...
+
+node 1 checked!...29 matches found!
+node 2 checked!...30 matches found!
+node 3 checked!...34 matches found!
+node 4 checked!...31 matches found!
+node 5 checked!...25 matches found!
+node 6 checked!...24 matches found!
+node 7 checked!...24 matches found!
+node 8 checked!...30 matches found!
+node 9 checked!...28 matches found!
+node 10 checked!...25 matches found!
+node 11 checked!...32 matches found!
+node 12 checked!...27 matches found!
+node 13 checked!...28 matches found!
+node 14 checked!...21 matches found!
+node 15 checked!...28 matches found!
+node 16 checked!...29 matches found!
+node 17 checked!...34 matches found!
+node 18 checked!...32 matches found!
+node 19 checked!...26 matches found!
+node 20 checked!...33 matches found!
+node 21 checked!...34 matches found!
+node 22 checked!...34 matches found!
+node 23 checked!...32 matches found!
+node 24 checked!...22 matches found!
+node 25 checked!...28 matches found!
+node 26 checked!...27 matches found!
+node 27 checked!...32 matches found!
+node 28 checked!...22 matches found!
+node 29 checked!...29 matches found!
+node 30 checked!...33 matches found!
+node 31 checked!...26 matches found!
+node 32 checked!...27 matches found!
+node 33 checked!...30 matches found!
+node 34 checked!...23 matches found!
+node 35 checked!...30 matches found!
+node 36 checked!...29 matches found!
+node 37 checked!...39 matches found!
+node 38 checked!...29 matches found!
+node 39 checked!...24 matches found!
+node 40 checked!...27 matches found!
+node 41 checked!...33 matches found!
+node 42 checked!...27 matches found!
+node 43 checked!...31 matches found!
+node 44 checked!...31 matches found!
+node 45 checked!...23 matches found!
+node 46 checked!...28 matches found!
+node 47 checked!...26 matches found!
+node 48 checked!...28 matches found!
+node 49 checked!...30 matches found!
+
+Voting array : [29 30 34 31 25 24 24 30 28 25 32 27 28 21 28 29 34 32 26 33 34 34 32 22 28
+ 27 32 22 29 33 
